@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deopard/aws-exercise-a.git"
+    "url": "git+https://github.com/MrBohn/aws-exercise-a.git"
   },
   "author": "Tom Kim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deopard/aws-exercise-a/issues"
+    "url": "https://github.com/MrBohn/aws-exercise-a/issues"
   },
-  "homepage": "https://github.com/deopard/aws-exercise-a#readme",
+  "homepage": "https://github.com/MrBohn/aws-exercise-a#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
